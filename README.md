@@ -5,12 +5,12 @@ Final project for the Building AI course
 
 ## Summary
 
-The idea of the project is to improve root cause analysis of machine or asset related disturbances in a steel plant. In modern asset management software every machine failure and their respective repair report is recorded in a database. Natural language processing algorithms would be utilized to have a holistic view on the most common failure types and mechanisms.
+The idea of the project is to improve root cause analysis of machine or asset related disturbances in a steel plant by utilizing natural language processing algorithms for maintenance records. 
 
 
 ## Background
 
-Currently we have lots of structured data in maintenance management system but the utilization is not very good because we are lacking systematic evaluation of failure and repair data. Often it is still quite hard to go through all the maintenance records in order to have a holistic view over the whole plant of what are the dominant failure types and modes (hydraulics, lubrication, bearing faults etc.). By knowing this better we could improve the efficiency of out maintenance processes and thus improce the reliability of the production process.
+Currently we have lots of structured data in maintenance management system but the utilization is not very good because we are lacking systematic evaluation of failure and repair data. Often it is still quite hard to go through all the maintenance records in order to have a holistic view over the whole plant of what are the dominant failure types and modes (hydraulics, lubrication, bearing faults etc.). By knowing this better we could improve the efficiency of out maintenance processes and thus improce the reliability of the production process. In modern asset management software every machine failure and their respective repair report is recorded in a database. Natural language processing algorithms would be utilized to have a holistic view on the most common failure types and mechanisms.
 
 
 ## How is it used?
