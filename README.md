@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The idea of the project is to improve root cause analysis of machine or asset related disturbances in a steel plant by utilizing natural language processing for maintenance records. 
+The idea of the project is to improve root cause analysis of machine or asset related disturbances by utilizing natural language processing for maintenance records. 
 
 
 ## Background
